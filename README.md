@@ -11,4 +11,5 @@ It provides the user's the facility of adding displayed products to carts, viewi
                                                           
  
  Front-End(User Interface): HTML, CSS, JavaScript ,Vue.js
+ 
  Back-End: Python, Django
